@@ -1,1 +1,0 @@
-# GDGOC-DHT11
